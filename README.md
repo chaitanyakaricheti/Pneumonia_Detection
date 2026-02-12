@@ -64,13 +64,8 @@ Binary Classification:
 git clone https://github.com/your-username/Hybrid-QCNN-Pneumonia.git
 cd Hybrid-QCNN-Pneumonia
 
----
 
-###2️⃣ Install dependencies
-```bash
- pip install -r requirements.txt
 
----
 
 
 
