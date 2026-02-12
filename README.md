@@ -57,7 +57,12 @@ Binary Classification:
 - Train-Test split
 
 ---
+## ⚙️ Installation
 
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/Hybrid-QCNN-Pneumonia.git
+cd Hybrid-QCNN-Pneumonia
 
 
 
